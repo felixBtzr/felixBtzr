@@ -4,7 +4,7 @@
 
 Hallo und willkommen! Mein Name ist Felix, und ich bin ein leidenschaftlicher Entwickler mit Interessen in verschiedenen Technologiebereichen. Hier findest du eine Sammlung meiner Projekte und Beiträge. Schau dich gerne um und lass dich inspirieren! Wenn du Fragen hast oder mit mir zusammenarbeiten möchtest, lass es mich wissen. Ich freue mich darauf, von dir zu hören!
 
-## Beliebte Repositories
+## Projekte, an denen ich (mit)gearbeitet habe
 
 ### 1. [PongWithGravity](https://github.com/felixBtzr/PongWithGravity)
 Pong mit zusätzlicher Schwerkraft.
@@ -44,7 +44,7 @@ Schau dir gerne meine Repositories an und zögere nicht, beizutragen oder mich z
 
 Hello and welcome! My name is Felix, and I'm a passionate developer with interests in various areas of technology. Here you can find a collection of my projects and contributions. Feel free to look around and get inspired! If you have any questions or would like to collaborate with me, let me know. I look forward to hearing from you!
 
-## Popular repositories
+## Projects I worked on (either my own or open source projects)
 
 ### 1. [PongWithGravity](https://github.com/felixBtzr/PongWithGravity)
 Pong with added gravity.
