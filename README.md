@@ -1,5 +1,7 @@
 # Willkommen auf felixBtzr's GitHub
 
+(english below)
+
 Hallo und willkommen! Mein Name ist Felix, und ich bin ein leidenschaftlicher Entwickler mit Interessen in verschiedenen Technologiebereichen. Hier findest du eine Sammlung meiner Projekte und Beiträge. Schau dich gerne um und lass dich inspirieren! Wenn du Fragen hast oder mit mir zusammenarbeiten möchtest, lass es mich wissen. Ich freue mich darauf, von dir zu hören!
 
 ## Beliebte Repositories
