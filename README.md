@@ -15,6 +15,9 @@ Eine interessante Anwendung, die auf Kotlin basiert.
 ### 3. [UN-Resolution-Tracker-2022](https://github.com/felixBtzr/UN-Resolution-Tracker-2022)
 Ein Projekt mit JavaScript zur Suche nach UN-Resolutionen für 2022.
 
+### 4. [Wikipedia Commons für Android](https://github.com/commons-app/apps-android-commons)
+Eine App, mit der Nutzer ihre Bilder auf Wikipedia Commons hochladen können (nur Android).
+
 ## Interessen:
 - C / C++
 - Java
@@ -43,7 +46,7 @@ Hello and welcome! My name is Felix, and I'm a passionate developer with interes
 
 ## Popular repositories
 
-### 1st [PongWithGravity](https://github.com/felixBtzr/PongWithGravity)
+### 1. [PongWithGravity](https://github.com/felixBtzr/PongWithGravity)
 Pong with added gravity.
 
 ### 2. [LachsApp](https://github.com/felixBtzr/LachsApp)
@@ -51,6 +54,9 @@ An interesting application based on Kotlin.
 
 ### 3. [UN-Resolution-Tracker-2022](https://github.com/felixBtzr/UN-Resolution-Tracker-2022)
 A project using JavaScript to search for UN resolutions for 2022.
+
+### 4. [Wikipedia Commons für Android](https://github.com/commons-app/apps-android-commons)
+An app that allows users to upload their images to Wikipedia Commons (Android only).
 
 ## Interests:
 - C / C++
