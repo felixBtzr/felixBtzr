@@ -15,6 +15,9 @@ Eine interessante Anwendung, die auf Kotlin basiert.
 ### 3. [UN-Resolution-Tracker-2022](https://github.com/felixBtzr/UN-Resolution-Tracker-2022)
 Ein Projekt mit JavaScript zur Suche nach UN-Resolutionen für 2022.
 
+### 4. [DDP-Projekt/Spielplatz](https://github.com/DDP-Projekt/Spielplatz)
+Ein Online-Spielplatz zum Ausprobieren der Deutschen Programmiersprache (DDP), inspiriert von Go, Rust und Dart
+
 ## Interessen:
 - C / C++
 - Java
@@ -50,6 +53,9 @@ An interesting application based on Kotlin.
 
 ### 3. [UN-Resolution-Tracker-2022](https://github.com/felixBtzr/UN-Resolution-Tracker-2022)
 A project using JavaScript to search for UN resolutions for 2022.
+
+### 4. [DDP-Projekt/Spielplatz](https://github.com/DDP-Projekt/Spielplatz)
+An online playground for testing the German Programming Language (DDP), inspired by Go, Rust, and Dart.
 
 ## Interests:
 - C / C++
