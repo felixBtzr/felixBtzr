@@ -15,9 +15,6 @@ Eine interessante Anwendung, die auf Kotlin basiert.
 ### 3. [UN-Resolution-Tracker-2022](https://github.com/felixBtzr/UN-Resolution-Tracker-2022)
 Ein Projekt mit JavaScript zur Suche nach UN-Resolutionen für 2022.
 
-### 4. [Wikipedia Commons für Android](https://github.com/commons-app/apps-android-commons)
-Eine App, mit der Nutzer ihre Bilder auf Wikipedia Commons hochladen können (nur Android).
-
 ## Interessen:
 - C / C++
 - Java
@@ -54,9 +51,6 @@ An interesting application based on Kotlin.
 
 ### 3. [UN-Resolution-Tracker-2022](https://github.com/felixBtzr/UN-Resolution-Tracker-2022)
 A project using JavaScript to search for UN resolutions for 2022.
-
-### 4. [Wikipedia Commons für Android](https://github.com/commons-app/apps-android-commons)
-An app that allows users to upload their images to Wikipedia Commons (Android only).
 
 ## Interests:
 - C / C++
