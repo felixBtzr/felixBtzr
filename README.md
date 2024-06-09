@@ -19,7 +19,6 @@ Ein Projekt mit JavaScript zur Suche nach UN-Resolutionen für 2022.
 - C / C++
 - Java
 - R
-- Seitenkanal-Angriffe und Schutz dagegen
 - Systemprogrammierung
 - UNIX / Linux
 - Raspberry Pi
@@ -56,7 +55,6 @@ A project using JavaScript to search for UN resolutions for 2022.
 - C / C++
 - Java
 - R
-- Side-channel attacks and protection against them
 - System programming
 - UNIX / Linux
 - Raspberry Pi
